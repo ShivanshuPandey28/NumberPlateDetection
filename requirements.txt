@@ -1,0 +1,19 @@
+# === Core Libraries ===
+opencv-python==4.7.0.72        # For image and video processing
+matplotlib==3.7.1              # For visualization of images and video frames
+numpy==1.24.3                  # For array and coordinate manipulation
+python-dateutil==2.8.2         # (dependency for datetime handling with matplotlib)
+
+# === Object Detection (YOLOv8) ===
+ultralytics==8.0.54            # For YOLOv8 detection (inference + training)
+
+# === OCR Engines ===
+
+# PaddleOCR (for image pipeline)
+paddleocr==2.6.1.3             # OCR engine for static images
+paddlepaddle==2.5.1            # Backend dependency for PaddleOCR (choose GPU version if needed)
+
+# EasyOCR (for video pipeline)
+easyocr==1.4.3                 # Lightweight OCR for frame-by-frame text extraction
+torch==1.13.1                  # PyTorch backend required for EasyOCR
+torchvision==0.14.1            # Required for EasyOCR
