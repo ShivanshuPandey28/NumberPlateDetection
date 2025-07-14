@@ -1,0 +1,79 @@
+Frame 1, Plate 1: Mi? WRU
+Frame 1, Plate 2: Mk
+Frame 2, Plate 1: M:NRU
+Frame 2, Plate 2: MEksu
+Frame 3, Plate 1: NMij NRU
+Frame 3, Plate 2: SISU
+Frame 4, Plate 1: Mksu
+Frame 4, Plate 2: Naiz NrU
+Frame 5, Plate 1: MaLsu
+Frame 5, Plate 2: Nai3 NRU
+Frame 6, Plate 1: MEisu
+Frame 6, Plate 2: NA3 NRU
+Frame 7, Plate 1: Waigsu
+Frame 7, Plate 2: Naiz NRU
+Frame 8, Plate 1: NA3 NRU
+Frame 8, Plate 2: MEsu
+Frame 8, Plate 3: GXIS 0e
+Frame 9, Plate 1: MEIsU
+Frame 9, Plate 2: NA3 NRU
+Frame 10, Plate 1: MIsu
+Frame 10, Plate 2: NAI3 NRU
+Frame 11, Plate 1: MSISU
+Frame 11, Plate 2: NaI3 NRU
+Frame 12, Plate 1: HEu
+Frame 12, Plate 2: NaI3 NRU
+Frame 13, Plate 1: NAJ NRU
+Frame 13, Plate 2: CENSU
+Frame 13, Plate 3: Gxis OC]
+Frame 14, Plate 1: NAJ NRU
+Frame 14, Plate 2: HES
+Frame 14, Plate 3: 6xis 06]
+Frame 15, Plate 1: CSISU
+Frame 15, Plate 2: NAIJ NRU
+Frame 15, Plate 3: GxIs 0GJ
+Frame 16, Plate 1: MSu
+Frame 16, Plate 2: NAIJ NRU
+Frame 16, Plate 3: Gxis @C
+Frame 17, Plate 1: MSu
+Frame 17, Plate 2: NAJ NRU
+Frame 17, Plate 3: GXIs 0GJ
+Frame 18, Plate 1: HNsu
+Frame 18, Plate 2: NAIJ NRU
+Frame 18, Plate 3: 6Xi5 0GJ
+Frame 19, Plate 1: NAIJ NRU
+Frame 19, Plate 2: CSu
+Frame 19, Plate 3: GXIS 0G
+Frame 20, Plate 1: NAIJ NRU
+Frame 20, Plate 2: CSU
+Frame 20, Plate 3: GXIS 0G,
+Frame 21, Plate 1: CIsu
+Frame 21, Plate 2: NAIJ NRU
+Frame 21, Plate 3: GXIs 0G4
+Frame 22, Plate 1: Cssu
+Frame 22, Plate 2: NAIJ NRU
+Frame 22, Plate 3: 6Xs 0gJ
+Frame 23, Plate 1: CIsu
+Frame 23, Plate 2: NA13 NRU
+Frame 23, Plate 3: 6xis 0gJ
+Frame 24, Plate 1: CUsu
+Frame 24, Plate 2: NAI3 NRU
+Frame 24, Plate 3: GXs 0G 1
+Frame 25, Plate 1: Lsu
+Frame 25, Plate 2: NAI3 NRU
+Frame 25, Plate 3: GXis 0g J
+Frame 26, Plate 1: NAI3 NRU
+Frame 26, Plate 2: Cssu
+Frame 26, Plate 3: Gxis 0GJ
+Frame 27, Plate 1: WSIsU
+Frame 27, Plate 2: Nal3 NRU
+Frame 27, Plate 3: Gu50GJ
+Frame 28, Plate 1: LLISISU
+Frame 28, Plate 2: NAI3 NRU
+Frame 28, Plate 3: 6450GJ
+Frame 29, Plate 1: MIISU
+Frame 29, Plate 2: NAI3 NRU
+Frame 29, Plate 3: [CXIs 0GJ
+Frame 30, Plate 1: WIVSU
+Frame 30, Plate 2: NAI3 NRU
+Frame 30, Plate 3: GXis OGJ
