@@ -30,30 +30,31 @@ This project aims to automate the detection and recognition of vehicle license p
 
 ## 🏗️ Architecture / Workflow
 
-  +------------------+
-  | Image / Video    |
-  +--------+---------+
-           |
-           ▼
-+------------------------+
-| YOLOv8 Model Inference |
-| Detects license plates |
-+-----------+------------+
-            |
- +----------v------------+
- | Crop Detected Plate   |
- +----------+------------+
-            |
-+-----------v-----------+
-| OCR (Paddle/EasyOCR)  |
-| Extract Text           |
-+-----------+-----------+
-            |
-+-----------v-----------+
-| Annotate & Save       |
-| - Image/Video output  |
-| - Text in .txt file   |
-+-----------------------+
+       +------------------+
+      | Image / Video    |
+      +--------+---------+
+               |
+               ▼
+    +------------------------+
+    | YOLOv8 Model Inference |
+    | Detects license plates |
+    +-----------+------------+
+                |
+     +----------v------------+
+     | Crop Detected Plate   |
+     +----------+------------+
+                |
+    +-----------v-----------+
+    | OCR (Paddle/EasyOCR) |
+    | Extract Text          |
+    +-----------+-----------+
+                |
+    +-----------v-----------+
+    | Annotate & Save       |
+    | - Image/Video output  |
+    | - Text in .txt file   |
+    +-----------------------+
+
 
 
 ---
